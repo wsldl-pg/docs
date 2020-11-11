@@ -1,0 +1,18 @@
+# Jetbrains IDEs
+You can use `wsl.distributions.xml` file to configure Jetbrains IDEs interpriter.
+
+`config\options\wsl.distributions.xml`
+
+Example:
+```xml
+<descriptor>
+    <id>Arch</id>
+    <microsoft-id>Arch</microsoft-id>
+    <executable-path>c:/linux/arch.exe</executable-path>
+    <presentable-name>Arch</presentable-name>
+</descriptor>
+```
+
+more details 
+
+https://www.jetbrains.com/help/pycharm/using-wsl-as-a-remote-interpreter.html#custom-distribution
