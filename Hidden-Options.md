@@ -1,3 +1,6 @@
+---
+title: "Hidden Options"
+---
 These are commands for distribution developers, so there is no need for documentation.
 # Hidden Options
 ## Common

@@ -1,3 +1,6 @@
+---
+title: "How to Install"
+---
 # How-to-Install
 ## 🔧Install with any rootfs
 #### 1. [Download Launcher.exe](https://github.com/yuk7/wsldl/releases/latest)

@@ -1,3 +1,10 @@
+---
+title: PhpStorm
+grand_parent: "Other Software"
+parent: "Jetbrains IDEs"
+#nav_order:
+---
+
 # How to use a custom WSL distribution with PhpStorm
 
 1. Follow the installation instructions ([here](https://github.com/yuk7/wsldl#install-with-any-rootfs)) **BUT** rename the launcher  the same as one of this
