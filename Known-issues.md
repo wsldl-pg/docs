@@ -1,3 +1,6 @@
+---
+title: "Known issues"
+---
 ## config command sometimes does not apply.
 'config *' command sometimes does not apply.(issue [ArchWSL#7](https://github.com/yuk7/ArchWSL/issues/7))
 

@@ -1,3 +1,10 @@
+---
+title: "Jetbrains IDEs"
+parent: "Other Software"
+has_children: true
+nav_order: 4
+---
+
 # Jetbrains IDEs
 You can use `wsl.distributions.xml` file to configure Jetbrains IDEs interpriter.
 

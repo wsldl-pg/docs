@@ -1,3 +1,9 @@
+---
+title: Fakeroot
+parent: "Other Software"
+nav_order: 2
+---
+
 # Use fakeroot
 fakeroot is using SYSV IPC by default.
 
