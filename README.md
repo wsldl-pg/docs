@@ -1,3 +1,11 @@
+---
+layout: default
+title: Home
+nav_order: 1
+description: "The beginning of the world"
+permalink: /
+---
+
 # wsldl documentation
 Welcome to wsldl documentation!
 
