@@ -21,6 +21,8 @@ Lists Only using the official build of wsldl.
 
 [Clear Linux](https://github.com/wight554/ClearWSL/) (by [wight554](https://github.com/wight554))
 
+[Deepin](https://github.com/justforlxz/DeepinWSL/) (by [justforlxz](https://github.com/justforlxz))
+
 [Devuan Linux](https://github.com/VPraharsha3/DevuanWSL) (by [VPraharsha03](https://github.com/VPraharsha03))
 
 [Fedora](https://github.com/yosukes-dev/FedoraWSL) (by [yosukes-dev](https://github.com/yosukes-dev))
