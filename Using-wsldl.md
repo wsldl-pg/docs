@@ -29,6 +29,8 @@ Lists Only using the official build of wsldl.
 
 [Gentoo](https://github.com/VPraharsha03/GentooWSL2) (by [VPraharsha03](https://github.com/VPraharsha03))
 
+[Manjaro](https://github.com/sileshn/ManjaroWSL) (by [SileshNair](https://github.com/sileshn))
+
 [Red hat(UBI)](https://github.com/yosukes-dev/RHWSL) (by [yosukes-dev](https://github.com/yosukes-dev))
 
 [Void Linux (glibc)](https://github.com/am11/VoidWSL) (by [am11](https://github.com/am11))
