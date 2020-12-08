@@ -10,4 +10,6 @@ We welcome contributions from everyone.
 
 You can make a pull request for a document or join a member of the document team.
 
+If you're a member of the documentation team, it's okay to push Markdown files directly to the main branch.
+
 Please contact us for more information.
