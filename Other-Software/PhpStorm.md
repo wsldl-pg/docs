@@ -26,7 +26,7 @@ Arch.exe
 openSUSE-Leap-15-1.exe
 ```
 
-The reason for this is, all the paths for WSL executables are hard coded so even if you add a custom distribution in `wsl.distributions.xml` it will not work.
+The reason for this is that all paths for WSL executables are hard coded. So even if you add a custom distribution in `wsl.distributions.xml`, it will not work.
 
 **The name of the executable is not obligatory the same as the ditribution it run !**
 You can install Ubuntu with a launcher named `debian.exe` and it will work.
