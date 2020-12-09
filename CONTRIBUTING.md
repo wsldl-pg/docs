@@ -8,7 +8,7 @@ layout: default
 
 We welcome contributions from everyone.
 
-You can make a pull request for a document or join a member of the document team.
+You can make a pull request for a document or join as a member of the document team.
 
 If you're a member of the document team, it's okay to push Markdown files directly to the main branch.
 
