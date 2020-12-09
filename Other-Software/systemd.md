@@ -5,11 +5,9 @@ nav_order: 3
 ---
 
 ## systemd/systemctl
-WSL does not supports systemd.
+WSL does not support systemd.
 
-But if you use WSL2, you can use bottle.
-
-Using it, you can run systemd completely.
+But if you use WSL2, you can use bottle and run systemd completely.
 
 #### subsystemctl
 https://github.com/sorah/subsystemctl

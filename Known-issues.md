@@ -1,10 +1,10 @@
 ---
 title: "Known issues"
 ---
-## config command sometimes does not apply.
-'config *' command sometimes does not apply.(issue [ArchWSL#7](https://github.com/yuk7/ArchWSL/issues/7))
+## Config command sometimes does not apply.
+'config *' command does not apply in some cases.(issue [ArchWSL#7](https://github.com/yuk7/ArchWSL/issues/7))
 
-In that case please reboot the computer or reboot LxssManager service.
+In such situations, please reboot the computer or restart LxssManager service.
 
-## Can installed only on system drive
-WSL instance is can install to system drive(C:) only.
+## Can install only on system drive
+WSL instances can be installed on system drive(C:) only.

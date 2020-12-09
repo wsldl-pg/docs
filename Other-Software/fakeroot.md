@@ -5,9 +5,9 @@ nav_order: 2
 ---
 
 # Use fakeroot
-fakeroot is using SYSV IPC by default.
+Fakeroot uses SYSV IPC by default.
 
-but WSL1 is not supported System V IPC call now.
+WSL1 does not support SYSV IPC call.
 
 ## Ubuntu or Debian or Fedora,etc...
 fakeroot-tcp is included in package.

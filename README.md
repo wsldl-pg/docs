@@ -9,9 +9,7 @@ permalink: /
 # wsldl documentation
 Welcome to wsldl documentation!
 
-wsldl is a versatile WSL launcher / installer.
-
-This document lists wsldl tips.
+wsldl is a versatile WSL launcher / installer. Use the links below to know more about wsldl.
 
 [Project List Using wsldl](Using-wsldl.md)
 
