@@ -2,7 +2,7 @@
 title: "Project List Using wsldl"
 ---
 # Project List Using wsldl
-Lists Only using the official build of wsldl.
+List of projects using the official build of wsldl.
 
 ## Distros
 [Alpine Linux](https://github.com/yuk7/AlpineWSL)
