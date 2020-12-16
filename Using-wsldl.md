@@ -15,8 +15,6 @@ List of projects using the official build of wsldl.
 
 [Artix Linux](https://github.com/hdk5/ArtixWSL) (by [hdk5](https://github.com/hdk5))
 
-[CentOS](https://github.com/yuk7/CentWSL)
-
 [CentOS](https://github.com/mishamosher/CentOS-WSL) (by [mishamosher](https://github.com/mishamosher))
 
 [Clear Linux](https://github.com/wight554/ClearWSL/) (by [wight554](https://github.com/wight554))
