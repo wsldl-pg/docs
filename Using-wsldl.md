@@ -27,6 +27,8 @@ List of projects using the official build of wsldl.
 
 [Gentoo](https://github.com/VPraharsha03/GentooWSL2) (by [VPraharsha03](https://github.com/VPraharsha03))
 
+[Linux Mint](https://github.com/sileshn/LinuxmintWSL) (by [SileshNair](https://github.com/sileshn))
+
 [Manjaro](https://github.com/sileshn/ManjaroWSL) (by [SileshNair](https://github.com/sileshn))
 
 [Red hat(UBI)](https://github.com/yosukes-dev/RHWSL) (by [yosukes-dev](https://github.com/yosukes-dev))
