@@ -25,6 +25,8 @@ List of projects using the official build of wsldl.
 
 [Fedora](https://github.com/yosukes-dev/FedoraWSL) (by [yosukes-dev](https://github.com/yosukes-dev))
 
+[Funtoo](https://github.com/rescenic/FuntooWSL) (by [rescenic](https://github.com/rescenic)) 
+
 [Gentoo](https://github.com/VPraharsha03/GentooWSL2) (by [VPraharsha03](https://github.com/VPraharsha03))
 
 [Linux Mint](https://github.com/sileshn/LinuxmintWSL) (by [SileshNair](https://github.com/sileshn))
