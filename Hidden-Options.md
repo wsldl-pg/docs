@@ -7,7 +7,8 @@ These are commands for distribution developers, so there is no need for document
 ### version
 ```cmd
 >{InstanceName}.exe version
-wsldl, version 19031200
+wsldl2, version 21071600  (amd64)
+https://git.io/wsldl
 ```
 ### isregd
 ```cmd
