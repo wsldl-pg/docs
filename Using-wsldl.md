@@ -23,6 +23,8 @@ List of projects using the official build of wsldl.
 
 [Devuan Linux](https://github.com/VPraharsha3/DevuanWSL) (by [VPraharsha03](https://github.com/VPraharsha03))
 
+[ElementaryOS](https://github.com/sileshn/ElementaryWSL) (by [SileshNair](https://github.com/sileshn))
+
 [Fedora](https://github.com/yosukes-dev/FedoraWSL) (by [yosukes-dev](https://github.com/yosukes-dev))
 
 [Funtoo](https://github.com/rescenic/FuntooWSL) (by [rescenic](https://github.com/rescenic)) 
