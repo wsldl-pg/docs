@@ -9,7 +9,7 @@ permalink: /
 # wsldl documentation
 Welcome to wsldl documentation!
 
-wsldl is a versatile and advanced WSL/WSL2 launcher cum installer written in C. It can be used to install any rootfs package or act as a launcher to an existing installed distribution.
+wsldl is a versatile and advanced WSL/WSL2 launcher and installer written in Go. It can be used to install any rootfs package or act as a launcher to an existing installed distribution.
 
 Use the links below to learn more about wsldl.
 
