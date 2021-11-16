@@ -5,6 +5,8 @@ title: "Project List Using wsldl"
 List of projects using the official build of wsldl.
 
 ## Distros
+[AlmaLinux](https://github.com/amithgeorge/AlmaLinux-WSL2) (by [amithgeoge](https://github.com/amithgeorge))
+
 [Alpine Linux](https://github.com/yuk7/AlpineWSL) (by [yuk7](https://github.com/yuk7))
 
 [Alpine Linux with Git-LFS and Sphinx](https://github.com/binarylandscapes/AlpineWSL) (by [binarylandscapes](https://github.com/binarylandscapes))
