@@ -41,6 +41,8 @@ List of projects using the official build of wsldl.
 
 [Rocky Linux](https://github.com/mishamosher/RL-WSL) (by [mishamosher](https://github.com/mishamosher))
 
+[Slackware](https://github.com/sileshn/SlackwareWSL) (by [SileshNair](https://github.com/sileshn))
+
 [Void Linux (glibc)](https://github.com/am11/VoidWSL) (by [am11](https://github.com/am11))
 
 [Void Linux (musl-libc)](https://github.com/am11/VoidMuslWSL) (by [am11](https://github.com/am11))
