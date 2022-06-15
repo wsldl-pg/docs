@@ -25,7 +25,7 @@ List of projects using the official build of wsldl.
 
 [Devuan Linux](https://github.com/VPraharsha3/DevuanWSL) (by [VPraharsha03](https://github.com/VPraharsha03))
 
-[ElementaryOS](https://github.com/sileshn/ElementaryWSL) (by [SileshNair](https://github.com/sileshn))
+[ElementaryOS](https://github.com/sileshn/ElementaryWSL2) (by [SileshNair](https://github.com/sileshn))
 
 [Fedora](https://github.com/yosukes-dev/FedoraWSL) (by [yosukes-dev](https://github.com/yosukes-dev))
 
@@ -33,13 +33,13 @@ List of projects using the official build of wsldl.
 
 [Gentoo](https://github.com/VPraharsha03/GentooWSL2) (by [VPraharsha03](https://github.com/VPraharsha03))
 
-[Linux Mint](https://github.com/sileshn/LinuxmintWSL) (by [SileshNair](https://github.com/sileshn))
+[Linux Mint](https://github.com/sileshn/LinuxmintWSL2) (by [SileshNair](https://github.com/sileshn))
 
 [Red hat(UBI)](https://github.com/yosukes-dev/RHWSL) (by [yosukes-dev](https://github.com/yosukes-dev))
 
 [Rocky Linux](https://github.com/mishamosher/RL-WSL) (by [mishamosher](https://github.com/mishamosher))
 
-[Slackware](https://github.com/sileshn/SlackwareWSL) (by [SileshNair](https://github.com/sileshn))
+[Slackware](https://github.com/sileshn/SlackwareWSL2) (by [SileshNair](https://github.com/sileshn))
 
 [Void Linux (glibc)](https://github.com/am11/VoidWSL) (by [am11](https://github.com/am11))
 
