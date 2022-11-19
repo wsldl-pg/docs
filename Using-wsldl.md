@@ -35,6 +35,8 @@ List of projects using the official build of wsldl.
 
 [Linux Mint](https://github.com/sileshn/LinuxmintWSL2) (by [SileshNair](https://github.com/sileshn))
 
+[Manjaro](https://github.com/sileshn/ManjaroWSL2) (by [SileshNair](https://github.com/sileshn))
+
 [Red hat(UBI)](https://github.com/yosukes-dev/RHWSL) (by [yosukes-dev](https://github.com/yosukes-dev))
 
 [Rocky Linux](https://github.com/mishamosher/RL-WSL) (by [mishamosher](https://github.com/mishamosher))
