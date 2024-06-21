@@ -19,6 +19,8 @@ List of projects using the official build of wsldl.
 
 [CentOS](https://github.com/mishamosher/CentOS-WSL) (by [mishamosher](https://github.com/mishamosher))
 
+[Chimera Linux](https://github.com/tranzystorekk/ChimeraWSL) (by [tranzystorekk](https://github.com/tranzystorekk))
+
 [Clear Linux](https://github.com/wight554/ClearWSL/) (by [wight554](https://github.com/wight554))
 
 [Deepin](https://github.com/justforlxz/DeepinWSL/) (by [justforlxz](https://github.com/justforlxz))
